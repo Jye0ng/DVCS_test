@@ -6,3 +6,4 @@ SourceTree와 Github를 이용해 Git을 배워봅시다.
 - SourceTree 사용법 익히기
 - Github에 계정 만들고 repo 생성하기
 - 오픈소스에 기여해보기 
+ 문의는 010-XXX-XXXX로 부탁드립니다.
